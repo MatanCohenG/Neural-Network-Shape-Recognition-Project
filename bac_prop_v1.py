@@ -6,11 +6,7 @@ import os
 """
 Introduction to Neural Network Shape Recognition Project
 
-Students:
-1. Yuval Panet - ID: 207119231
-2. Matan Cohen Gil-Ad - ID: 209056480
-3. Daniel Yaakov Almualem - ID: 313311375
-4. Tehila Bakshaiel - ID: 308479625
+
 
 Project Overview:
 This project focuses on the problem of geometric shape recognition using neural networks. Specifically, we are tasked with identifying three shapes: triangles, rectangles, and trapezoids. The goal is to train neural networks to accurately classify these shapes under varying conditions of size and position within a 10x10 matrix.
